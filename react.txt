@@ -1,1 +1,2 @@
-console.(ggggg)
+console.("ggggg")
+console.log("bbb")
